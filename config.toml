@@ -12,26 +12,26 @@ publishDir = "docs/"
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
-  showReadingTime = false
+  showReadingTime = true
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
+    title = "Guia dos Musiqueiros"
+    subtitle = "Analisando dados musicais"
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
+    menuMore = "Mostrar mais"
+    writtenBy = "Escrito por"
+    readMore = "Leia mais"
+    readOtherPosts = "Veja mais posts"
+    newerPosts = "Posts novos"
+    olderPosts = "Posts antigos"
+    minuteReadingTime = "min de leitura"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "Guia dos Musiqueiros"
       logoHomeLink = "/"
     # or
     #
@@ -40,9 +40,9 @@ publishDir = "docs/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "sobre"
+        name = "Sobre"
+        url = "/sobre"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
