@@ -32,7 +32,7 @@ publishDir = "docs/"
 
     [languages.en.params.logo]
       logoText = "Guia dos Musiqueiros"
-      logoHomeLink = "/"
+      logoHomeLink = "https://terezalacerda.github.io/guiadosmusiqueiros/"
     # or
     #
     # path = "/img/your-example-logo.svg"
