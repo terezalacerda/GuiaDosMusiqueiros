@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
+    <title>Posts on Guia dos Musiqueiros</title>
     
     
     
-    <link>/post/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <link>https://terezalacerda.github.io/guiadosmusiqueiros/post/</link>
+    <description>Recent content in Posts on Guia dos Musiqueiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://terezalacerda.github.io/guiadosmusiqueiros/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://terezalacerda.github.io/guiadosmusiqueiros/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://terezalacerda.github.io/guiadosmusiqueiros/post/2020-12-01-r-rmarkdown/</guid>
       <description>
         
           
@@ -38,13 +38,13 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Hello Friend</title>
-      <link>/post/hello/</link>
+      <link>https://terezalacerda.github.io/guiadosmusiqueiros/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>/post/hello/</guid>
+      <guid>https://terezalacerda.github.io/guiadosmusiqueiros/post/hello/</guid>
       <description>
         
-          &lt;img src=&#34;/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;https://terezalacerda.github.io/guiadosmusiqueiros/img/hello.jpg&#34;/&gt;
           
         
         

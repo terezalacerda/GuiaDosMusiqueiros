@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hello Friend</title>
+    <title>Tags on Guia dos Musiqueiros</title>
     
     
     
-    <link>/tags/</link>
-    <description>Recent content in Tags on Hello Friend</description>
+    <link>https://terezalacerda.github.io/guiadosmusiqueiros/tags/</link>
+    <description>Recent content in Tags on Guia dos Musiqueiros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://terezalacerda.github.io/guiadosmusiqueiros/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://terezalacerda.github.io/guiadosmusiqueiros/tags/plot/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://terezalacerda.github.io/guiadosmusiqueiros/tags/plot/</guid>
       <description>
         
           
@@ -36,10 +36,10 @@
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://terezalacerda.github.io/guiadosmusiqueiros/tags/r-markdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://terezalacerda.github.io/guiadosmusiqueiros/tags/r-markdown/</guid>
       <description>
         
           
@@ -56,10 +56,10 @@
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://terezalacerda.github.io/guiadosmusiqueiros/tags/regression/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://terezalacerda.github.io/guiadosmusiqueiros/tags/regression/</guid>
       <description>
         
           
