@@ -1,9 +1,9 @@
 ---
-author: Elliot
-cover: img/hello.jpg
-date: "1986-09-17"
-description: '"Hello, friend?" That''s lame. Maybe I should give you a name?'
-title: Hello Friend
+author: Cherry
+cover: img/cherry.png
+date: "2022-07-22"
+description: 'Isso deveria ser um post de apresentação?'
+title: Boas Vindas?
 ---
 
 > "Hello, friend?" That's lame.

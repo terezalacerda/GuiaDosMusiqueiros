@@ -17,7 +17,7 @@ publishDir = "docs/"
 [languages]
   [languages.en]
     title = "Guia dos Musiqueiros"
-    subtitle = "Analisando dados musicais"
+    subtitle = "Seu mundinho da música"
     keywords = ""
     copyright = ""
     menuMore = "Mostrar mais"
